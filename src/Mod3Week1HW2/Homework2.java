@@ -120,8 +120,7 @@ public class Homework2 {
 	}
 	
 	// Question # 11
-	//HashSet<Integer>
-
+	
 		public static void duplicatedElem(HashSet<Integer> hashSet,HashSet<Integer> hashSet1 ) {
 			
 			HashSet<Integer> duplicate = new HashSet<>();
@@ -142,6 +141,7 @@ public class Homework2 {
 		}
 	
 	
+		
 	
 	public static void main(String[] args) {
 		
@@ -218,8 +218,6 @@ public class Homework2 {
 		
 		//Question #  11 - Compare two sets and retain elements 
 		duplicatedElem(hashSetTest,hashSetTest1);
-		
-		
 		
 	}
 
